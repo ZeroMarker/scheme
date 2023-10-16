@@ -8,4 +8,5 @@
 (display num)
 (display " is ")
 (display (square num))
-;(newline)
+(newline)
+(exit)
