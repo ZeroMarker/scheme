@@ -1,9 +1,10 @@
 # scheme
-Functional Programming
 
+```sh
 guile --no-auto-compile -l .init.scm -l main.scm
 
-Chez Scheme
+# Chez Scheme
 
 scheme main.scm
 scheme -q main.scm
+```
